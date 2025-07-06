@@ -1,0 +1,21 @@
+ .container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.dark-box,
+.bright-box {
+
+font-size: 28px;
+font-family: Helvetica, "Times New Roman", sans-serif;
+   
+}
+
+.dark-box {
+  background-color: black;
+  color: white;
+}
+
+.bright-box {
+  background-color: yellow;
+}
